@@ -1,1 +1,0 @@
-# code_style_guidelines
